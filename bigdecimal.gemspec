@@ -1,10 +1,8 @@
 # coding: utf-8
 
-bigdecimal_version = '2.0.3'
-
 Gem::Specification.new do |s|
   s.name          = "bigdecimal"
-  s.version       = bigdecimal_version
+  s.version       = "2.0.4"
   s.authors       = ["Kenta Murata", "Zachary Scott", "Shigeo Kobayashi"]
   s.email         = ["mrkn@mrkn.jp"]
 
